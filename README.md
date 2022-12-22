@@ -1,3 +1,5 @@
 # imageColorization
 Image Colorization using cnn
-IDs -20190696 & 20190510
+Names and IDs:
+Kareem Ayman 20190696
+Marwan Ashraf 20190510
